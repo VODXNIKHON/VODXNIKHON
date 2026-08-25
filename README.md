@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Nikhil</h1>
+<h1 align="center">Hi 👋, I'm Soumya Ranjan Ghadai (Nikhil)</h1>
 <h3 align="center">Creative Developer | Video Architect | Engineering Student</h3>
 
 <p align="center">
-  <a href="[https://your-vercel-link-here.vercel.app](https://portfolio-tau-tawny-2zyjjfx8gh.vercel.app/)" target="_blank">
+  <a href="[https://your-vercel-link-here.vercel.app](https://portfolio-portfolio-d51c.vercel.app/)" target="_blank">
     <img src="https://img.shields.io/badge/🌐_View_My_Live_Portfolio-111111?style=for-the-badge&logoColor=white" alt="Portfolio" />
   </a>
 </p>
