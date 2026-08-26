@@ -18,8 +18,3 @@ I specialize in high-impact video editing, custom server applications, and commu
 * **YouTube:** [VodiX Editz](https://www.youtube.com/channel/UCpCsToU_hKUTaQI8nQGaA-g)
 * **Discord Community:** [Join The Server](https://discord.gg/QGKpqq3QrU)
 * **Instagram:** [@vod_x_nikhon](https://www.instagram.com/vod_x_nikhon/?hl=en)
-
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VODXNIKHON&show_icons=true&theme=radical&hide_border=true&bg_color=111111&title_color=ffffff&text_color=888888" alt="Nikhil's GitHub Stats" />
-</p>
